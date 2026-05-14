@@ -8,7 +8,7 @@ A powerful graph visualization plugin for SiYuan Notes, inspired by Obsidian's g
 
 **License:** MIT — This plugin is open source. Feel free to use, modify, and distribute under the terms of the MIT license.
 
-**Repository:** [GitHub](https://github.com/AstroJorn/redstone-graph-view)
+**Repository:** [GitHub](https://github.com/Astrojorn/redstone-graph-view)
 
 ---
 
