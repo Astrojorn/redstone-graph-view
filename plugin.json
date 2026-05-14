@@ -1,0 +1,22 @@
+{
+  "name": "redstone-graph-view",
+  "author": "Astrojorn",
+  "url": "https://github.com/astrojorn/redstone-graph-view",
+  "version": "3.5.0",
+  "minAppVersion": "3.1.17",
+  "backends": ["all"],
+  "frontends": ["desktop"],
+  "displayName": {
+    "default": "RedStone Graph View",
+    "zh_CN": "RedStone 图谱视图"
+  },
+  "description": {
+    "default": "RedStone Graph View with clusters, databases, local graph, configurable language and position",
+    "zh_CN": "RedStone 图谱视图，带有聚类、数据库、本地图谱、可配置语言和位置"
+  },
+  "readme": {
+    "default": "README.md"
+  },
+  "funding": {},
+  "keywords": ["graph", "redstone", "cluster", "database", "visualization"]
+}
