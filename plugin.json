@@ -1,7 +1,7 @@
 {
   "name": "redstone-graph-view",
   "author": "Astrojorn",
-  "url": "https://github.com/astrojorn/redstone-graph-view",
+  "url": "https://github.com/AstroJorn/redstone-graph-view",
   "version": "3.5.0",
   "minAppVersion": "3.1.17",
   "backends": ["all"],
